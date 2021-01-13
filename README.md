@@ -6,11 +6,12 @@ pytorch implementation and enforcement of pointer-generator network
 
 
 ## Model
+![image](https://github.com/neverneverendup/Enhanced-Pointer-Generator-Network/blob/master/EPG.png)
 
 
 ## Performance
 
-
+![image](https://github.com/neverneverendup/Enhanced-Pointer-Generator-Network/blob/master/performance.png)
 
 
 
