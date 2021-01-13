@@ -31,3 +31,4 @@ https://github.com/atulkum/pointer_summarizer/blob/master/data_util/batcher.py#L
 ## Reference
 [1]See A, Liu P J, Manning C D. Get To The Point: Summarization with Pointer-Generator Networks[C]//Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2017: 1073-1083.
 [2]Chung T L, Xu B, Liu Y, et al. Main Point Generator: Summarizing with a Focus[C]//International Conference on Database Systems for Advanced Applications. Springer, Cham, 2018: 924-932.
+[3] pytorch implementation of Get To The Point: Summarization with Pointer-Generator Networks, https://github.com/atulkum/pointer_summarizer
