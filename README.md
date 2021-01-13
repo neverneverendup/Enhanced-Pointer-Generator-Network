@@ -1,8 +1,6 @@
-pytorch implementation and enforcement of pointer-generator network
+## pytorch implementation and enforcement of pointer-generator network
 
-1. [Train with pointer generation and coverage loss enabled](#train-with-pointer-generation-and-coverage-loss-enabled)
-2. [Training with pointer generation enabled](#training-with-pointer-generation-enabled)
-3. [How to run training](#how-to-run-training)
+Document Encoder + Pointer Generator to get more key information from the source document.
 
 
 ## Model
